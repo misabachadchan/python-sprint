@@ -16,4 +16,4 @@ print("the type of d is :", type(d))
 print("the type of e is :", type(e))
 print("the type of list1 is :", type(list1))
 print("the type of tuple1 is :", type(tuple1))
-print("the type of dict1 is :", type(dict1))f
+print("the type of dict1 is :", type(dict1))
